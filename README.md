@@ -1,2 +1,3 @@
 # smart-brain-frontend
-Link:- smart-brain-face-r.herokuapp.com
+Link:- https://smart-brain-face-r.herokuapp.com/
+BACKEND:- https://github.com/muddledluck/smartBrainAPI
